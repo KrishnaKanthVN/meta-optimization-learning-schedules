@@ -1,0 +1,10 @@
+Experiment,Optimizer,Scheduler,Final Val Acc (%),Best Val Acc (%),Best Val Epoch,Convergence Epochs,Gen Gap (%)
+sgd_cosine_20250404_140355,sgd,cosine,94.92,94.96,98,25,5.05
+sgd_step_20250404_212755,sgd,step,94.01,94.11,84,26,5.97
+adamw_cosine_20250408_144631,adamw,cosine,93.76,93.79,98,8,6.23
+adam_cosine_20250406_174844,adam,cosine,93.0,93.02,98,10,6.84
+rmsprop_cosine_20250407_122857,rmsprop,cosine,92.61,92.72,93,20,7.11
+sgd_onecycle_20250405_094307,sgd,onecycle,91.47,92.0,65,9,6.95
+adam_constant_20250405_153019,adam,constant,86.08,89.54,43,9,7.37
+sgd_constant_20250404_093129,sgd,constant,81.16,87.79,91,9,8.11
+adam_onecycle_20250407_080718,adam,onecycle,81.5,81.97,94,9,1.37
