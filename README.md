@@ -39,3 +39,8 @@ The effectiveness of deep learning models depends heavily on optimization strate
 |adam|constant|86.08|89.54|43|9|7.37|
 |sgd|constant|81.16|87.79|91|9|8.11|
 |adam|onecycle|81.5|81.97|94|9|1.37|
+
+--- 
+
+
+![alt text](image.png)
